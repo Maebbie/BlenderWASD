@@ -1,4 +1,4 @@
-Latest release here: https://github.com/Maebbie/Blender-Mapping-Config-WASD-Movement-and-more/releases
+**Latest release: https://github.com/Maebbie/Blender-Mapping-Config-WASD-Movement-and-more/releases**
 
 Aimed to make Blender easily usable for building Worlds/Mapping similar to how Hammer and
 ProBuilder work. For Blender 2.8 and up. Used to make Atoll of Ether, Eventide, HomeBox and the ChilloutVR Hub World.
